@@ -47,3 +47,17 @@
 
 <div align=center><img width="800" height="500" src="https://github.com/caiyiqing/Summer-school-notes/blob/master/first_day_file/%20first_day_notes/1-3.jpg"/></div>
 <p align=center size="16">图1-3可视化学习工具<p>
+ 
+ ### 四、HTML，CSS，JS入门参考链接
+    菜鸟教程：
+* https://www.runoob.com/html/html-tutorial.html
+* https://www.runoob.com/css/css-tutorial.html
+* https://www.runoob.com/js/js-tutorial.html
+* https://www.runoob.com/svg/svg-tutorial.html
+    类似的网站还有：MDN、W3CSchool等等
+    建议继续自学的内容：
+* flex布局：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+* ES6的语法：https://es6.ruanyifeng.com/
+* css中的变量：https://www.ruanyifeng.com/blog/2017/05/css-variables.html
+* css的作用域：http://www.ruanyifeng.com/blog/2016/06/css_modules.html
+
