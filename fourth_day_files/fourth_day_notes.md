@@ -47,7 +47,7 @@
 
 2. **焦点+上下文**
 <br>焦点+上下文致力于显示用户兴趣焦点部分的细节，同时提现焦点和周边的关系关联，最简单的比如MAC电脑下的导航图标。
-<div align=center><img width="800" height="500" src="https://github.com/caiyiqing/Summer-school-notes/blob/master/fourth_day_files/fourth_day_notes/4-5.jpg"/></div>
+<div align=center><img width="800" height="200" src="https://github.com/caiyiqing/Summer-school-notes/blob/master/fourth_day_files/fourth_day_notes/4-5.jpg"/></div>
 <p align=center size="16">图4-5mac桌面导航  <p>
   
 ### 三、动画
