@@ -3,7 +3,7 @@
 #### 讲师简介：傅四维，之江实验室副研究员，博士毕业于香港科技大学。研究兴趣为文本可视化，人工智能辅助可视分析。
 #### 课程简介：文本信息无处不在，譬如，邮件、新闻、工作报告等等都是日常处理的信息。面对文本信息的爆炸式增长和日益加快的工作节奏，通过人工阅读大量文字来获取信息暗藏着的信息理解速度滞后的问题。利用可视化增强人类对文本和文档的理解正是在这样的背景下应运而生。文本可视化应用范围广泛；便签云技术已是诸多网站展示其关键词的常用技术；信息文本图是美国纽约时报等各大纸媒辅助用户理解新闻内容等必备方法。文本可视化还与其他领域结合，如信息检索技术，可视地表达信息检索过程、传达信息检索结果。
 
-<div align=center><img width="500" height="300" src="https://github.com/caiyiqing/Summer-school-notes/blob/master/six_day_files/six_day_notes/6-1.jpg"/></div>
+<div align=center><img width="500" height="200" src="https://github.com/caiyiqing/Summer-school-notes/blob/master/six_day_files/six_day_notes/6-1.jpg"/></div>
 <p align=center size="16">图6-1课程内容概要<p>
 
 ### 一、文本可视化
