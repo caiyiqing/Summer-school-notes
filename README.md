@@ -6,4 +6,6 @@
 ## [2019浙江大学可视化暑期学校-第五天](/fifth_day_files/fifth_day_notes.md)
 ## [2019浙江大学可视化暑期学校-第六天](/six_day_files/sixth_day_notes.md)
 ## [2019浙江大学可视化暑期学校-第七天](/seven_day_files/seventh_day_notes.md)
- 
+## [2019浙江大学可视化暑期学校-第八天](/eighth_day_files/eighth_day_readme.md)
+## [2019浙江大学可视化暑期学校-第九天](/ninth_day_files/ninth_day_notes.md)
+## [2019浙江大学可视化暑期学校-第十天](/tenth_day_files/tenth_day_notes.md)
