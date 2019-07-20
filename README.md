@@ -9,3 +9,4 @@
 ## [第八天-空间与地理数据可视化](/eighth_day_files/eighth_day_readme.md)
 ## [第九天-高维数据可视化](/ninth_day_files/ninth_day_notes.md)
 ## [第十天-科学可视化](/tenth_day_files/tenth_day_notes.md)
+## [课程PPT](/PPT/PPT_readme.md)
